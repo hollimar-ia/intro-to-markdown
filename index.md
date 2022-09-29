@@ -7,3 +7,8 @@ Here is an image of Yaktocat!
 $ git init
 This is an example of code block styling in Markdown
 ```
+Here is a checklist of next steps:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Share what I have learned!
